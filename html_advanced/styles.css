@@ -1,0 +1,15 @@
+.links {
+    text-align: right;
+}
+
+a {
+    border: 2px solid red;
+}
+
+img {
+    border: 2px solid lime;
+}
+
+header {
+    border: 2px solid black;
+}
